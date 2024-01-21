@@ -1,0 +1,78 @@
+                @import url('https://fonts.cdnfonts.com/css/aksana');
+
+                .Accueil {
+                    width: 700px;
+
+                }
+
+                .titleAccueil {
+                    font-size: 20rpx;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    padding: 0px 10px;
+                }
+
+               
+                .btnhome {
+                    width: 100%;
+                    height: 50px;
+                    display: flex;
+                    justify-content: center;
+
+                }
+
+                .btn {
+                    width: 340px;
+                    height: 40px;
+                    border: none;
+                    border-color: rgb(19, 30, 187);
+                    font-size: 17px;
+                    background-color: white;
+                }
+
+                .btn:hover {
+                    background-color: rgb(241, 236, 236);
+
+
+                }
+                .image {
+                    width: 50px;
+                    height: 50Px;
+                    border-radius: 50%;
+
+                }
+
+                .inputtweet {
+                    display: flex;
+                    align-items: center;
+                    padding-left: 10px;
+                    gap: 20px;
+                    color: rgb(166, 161, 161);
+                    font-size: 13px;
+
+                }
+
+                .iconstweet {
+                    font-size: 25px;
+                    margin-left: 80Px;
+                    display: flex;
+                    margin-top: 20px;
+                    align-items: center;
+                    color: #1d9bf0;
+                    justify-content: space-between;
+                }
+                .iconaccueil>:hover{
+                    color: #000000;
+
+                }
+                .icon{
+                    display: flex;
+                    gap: 20px;
+                }
+
+                hr{
+                    margin:5px;
+                    border-color: #f4f1f1;
+                    color: aqua;                 
+                }

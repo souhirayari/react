@@ -1,0 +1,25 @@
+.item{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    gap: 15px;
+    font-family: 'Lato', sans-serif;
+
+}
+.btntweet{
+    font-size: 15px;
+    color: white;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    background-color: #1d9bf0;
+    border: none;
+    margin-right: 10px;
+}
+
+.btntweet:focus{
+    outline-style: none;
+}
+.btntweet:hover{
+    background-color: #3eaaf1;
+}
