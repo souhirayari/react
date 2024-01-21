@@ -1,0 +1,26 @@
+.todo-item {
+  display: flex;
+  align-items: center;
+}
+
+.todo-item p{
+  margin-right: 20px;
+}
+
+.todo-item button {
+  height: 20px;
+}
+
+.clear-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.dashed-line {
+  text-decoration: line-through;
+}
+
+.normal-line {
+  text-decoration: none;
+}
