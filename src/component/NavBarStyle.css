@@ -1,0 +1,14 @@
+b{
+    font-size: 30px;
+    padding:10px;
+}
+.bar{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    list-style: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
